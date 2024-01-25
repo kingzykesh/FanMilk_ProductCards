@@ -3,7 +3,7 @@ export const characters = [
   {
     name: "Fan Choco",
     alias: "Fan Choco",
-    img1:"./2.jpg",
+    img1:"2.jpg",
     //  "https://www.specfictionshop.com/cdn/shop/products/315455127_2253071438203857_6311282012262232749_n_2000x.jpg?v=1669836598",
     homeworld: "Earth",
     abilities: [
